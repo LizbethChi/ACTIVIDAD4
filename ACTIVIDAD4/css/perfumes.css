@@ -1,0 +1,36 @@
+body
+{
+    border: 10px dashed pink;
+}
+.contenedor
+{
+    margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box
+{
+    border: 5px double pink;
+    margin: 15px;
+    padding: 5px;
+    background-color: white;
+}
+.box h3
+{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.box h5
+{
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+img
+{
+    margin: 10px;
+    height: 220px;
+    width: 220px;
+}

@@ -1,0 +1,33 @@
+body
+{
+    background-color: lightblue;
+}
+main
+{
+    width: 50em;
+    height: 40em;
+    margin-left: 300px;
+    background-color: lightgray;
+    float: center;
+}
+.contenedor
+{
+    display: flex;
+}
+label
+{
+    margin: 10px;
+    width: 350px;
+    height: 20px;
+    text-align: right;
+    float: left;
+}
+.theinput
+{
+    border-radius: 5px;
+    border: 5px solid white;
+    margin: 10px;
+    width: 15em;
+    height: 2em;
+    float: right;
+}
